@@ -10,7 +10,7 @@ Using libraries such as:
 *Matplotlib
 *os
 
-I will show you in this project how to import the data from a csv, how to deal with missing data
---
-Separate dates by month name, year 
----
+<b> I will show you in this project how to import the data from a csv, how to deal with missing data <b>
+
+<b>Separate dates by month name, year  <b>
+
