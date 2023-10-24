@@ -1,4 +1,4 @@
-# Netflix_python
+# Netflix Python
 
 Hi guys, 
 In this project we analize a data set from Netflix. 
